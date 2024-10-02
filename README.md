@@ -20,6 +20,6 @@ Hi, I'm **Hamza Braik**, a 24-year-old student at **YouCode**, currently focused
 ## 📫 Let’s Connect!
 Feel free to reach out if you're interested in learning together or discussing web development and technology.
 
-- **[LinkedIn](https://www.linkedin.com/in/hamza-braik-a221b326a/)**
+
 - **[My Team](https://www.maeil.team/)**
 - **Email**: hamzabraik02@gmail.com
