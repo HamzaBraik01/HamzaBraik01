@@ -1,16 +1,25 @@
-## Hi there 👋
+# Welcome to Hamza Braik's GitHub!
 
-<!--
-**HamzaBraik01/HamzaBraik01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Hamza Braik**, a 24-year-old student at **YouCode**, currently focused on learning **C programming**. I'm preparing to pass the **SAS phase** at YouCode, which will kickstart my journey into **full-stack web development**.
 
-Here are some ideas to get you started:
+## 🧠 Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning:
+- **C Language**: Strengthening my programming foundations.
+- **Full-Stack Web Development**: Excited to explore both front-end and back-end technologies.
+
+### Other Skills:
+- **Languages**: C
+- **Tools**: Visual Studio Code, Git, PowerBi
+
+## 🚀 Goals
+- Successfully complete the **SAS phase** at YouCode and dive into full-stack web development.
+- Master essential web technologies like **HTML**, **CSS**, **JavaScript**, and back-end tools.
+- Collaborate on open-source web development projects.
+
+## 📫 Let’s Connect!
+Feel free to reach out if you're interested in learning together or discussing web development and technology.
+
+- **[LinkedIn](https://www.linkedin.com/in/hamza-braik-a221b326a/)**
+- **[My Team](https://www.maeil.team/)**
+- **Email**: hamzabraik02@gmail.com
