@@ -6,7 +6,7 @@ Hi, I'm **Hamza Braik**, a 24-year-old student at **YouCode**, currently focused
 
 ### Currently Learning:
 - **C Language**: Strengthening my programming foundations.
-- **Full-Stack Web Development**: Excited to explore both front-end and back-end technologies.
+
 
 ### Other Skills:
 - **Languages**: C
