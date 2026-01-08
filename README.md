@@ -70,7 +70,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building robust, sca
 
 ---
 
-## �️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 ### 🎨 Frontend
 <p>
@@ -95,7 +95,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building robust, sca
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
-### �️ Databases
+### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -119,100 +119,19 @@ I'm a passionate **Full-Stack Developer** with expertise in building robust, sca
 
 ---
 
-## 📂 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔗 Project Name
-**Description**: Brief description of what the project does and the problem it solves.
-
-**Tech Stack**: `Angular` `Spring Boot` `PostgreSQL` `Docker`
-
-<p>
-  <a href="https://github.com/HamzaBraik01/project-name">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" />
-  </a>
-</p>
-
-</td>
-<td width="50%">
-
-### 🔗 Project Name
-**Description**: Brief description of what the project does and the problem it solves.
-
-**Tech Stack**: `Vue.js` `Laravel` `MySQL`
-
-<p>
-  <a href="https://github.com/HamzaBraik01/project-name">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" />
-  </a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔗 Project Name
-**Description**: Brief description of what the project does and the problem it solves.
-
-**Tech Stack**: `Python` `Flask` `MongoDB` `Power BI`
-
-<p>
-  <a href="https://github.com/HamzaBraik01/project-name">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" />
-  </a>
-</p>
-
-</td>
-<td width="50%">
-
-### 🔗 Project Name
-**Description**: Brief description of what the project does and the problem it solves.
-
-**Tech Stack**: `Java EE` `MySQL` `Docker`
-
-<p>
-  <a href="https://github.com/HamzaBraik01/project-name">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" />
-  </a>
-</p>
-
-</td>
-</tr>
-</table>
-
-> 💡 *Explore more projects in my [repositories](https://github.com/HamzaBraik01?tab=repositories)*
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaBraik01&theme=tokyonight_duo&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HamzaBraik01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" height="180px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaBraik01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8" height="180px" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaBraik01&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HamzaBraik01&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="180px" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaBraik01&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <em>Note: Top languages reflect public code only and don't represent experience or skill level.</em>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaBraik01&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </p>
 
 ---
