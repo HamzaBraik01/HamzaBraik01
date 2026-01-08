@@ -122,14 +122,16 @@ I'm a passionate **Full-Stack Developer** with expertise in building robust, sca
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaBraik01&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaBraik01&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180px" alt="Top Languages" />
+  <a href="https://github.com/HamzaBraik01">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamzaBraik01&theme=radical" width="95%" alt="Profile Details" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HamzaBraik01&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HamzaBraik01&theme=radical" height="180px" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HamzaBraik01&theme=radical" height="180px" alt="Top Languages" />
 </div>
 
 <br/>
